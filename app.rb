@@ -4,7 +4,7 @@ require 'open_uri_redirections'
 
 get '/show' do
   @url    = params[:url]
-  @source = open(@url).read
+  @source = open(@url, allow_redirections: :all).read
 
   erb :show
 end
