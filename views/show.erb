@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="http://sitevalidator.com/cdn/highlightjs/7.3/styles/default.min.css">
+    <style type="text/css">
+      ol {
+        background-color: #FCFCFC;
+        border: 1px solid #E0E0E0;
+        font-size: 0.8em; }
+      li {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1em;
+        margin-left: 20px;
+        border-left: 1px solid #E0E0E0;
+        border-bottom: 1px solid #E0E0E0; }
+      pre { margin: 0px; padding: 0px; font-size: 1.3em; text-wrap:normal; overflow-wrap:break-word; }
+      li:nth-child(even) pre code { background-color: #FCFCFC; }
+      li:hover pre code { font-weight: bolder; }
+    </style>
+  </head>
+  <body>
+    <ol>
+    <% i = 0 %>
+    <% @source.each_line do |line| %>
+      <li id="line-<%= i += 1 %>"><pre><code><%= h line %></code></pre></li>
+    <% end %>
+    </ol>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://sitevalidator.com/cdn/highlightjs/7.3/highlight.min.js"></script>
+    <script type="text/javascript">
+      hljs.initHighlightingOnLoad();
+    </script>
+  </body>
+</html>
