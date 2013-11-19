@@ -10,6 +10,8 @@ The source code of web pages can already be seen by using the contextual menu "v
 
 I wanted the ability to jump directly to a line by using an anchor, and also to colorize the syntax (not all web browsers do this automatically).
 
+Sometimes, you can't even use the contextual menu as it has been disabled on the web page that you want to inspect.
+
 But the main reason was to have a way to link to this source view directly, instead of using a contextual menu.
 
 ## Deploying
