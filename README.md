@@ -30,7 +30,7 @@ http://sourceviewerdemo.herokuapp.com/show?url=https://github.com#line-137
 
 ## Following redirections
 
-This app uses the open_uri_redirections gem, that patches Ruby's OpenURI to allow redirections from HTTP to HTTPS and vice versa.
+This app uses the [OpenUriRedirections](https://github.com/jaimeiniesta/open_uri_redirections) gem, that patches Ruby's OpenURI to allow redirections from HTTP to HTTPS and vice versa.
 
 ## Specifying an User Agent
 
