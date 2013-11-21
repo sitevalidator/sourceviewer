@@ -2,7 +2,7 @@
 
 Source Viewer is _source code viewing as a service_, a simple web service that allows you to see the source code of a web page (or any other file that can be accessed through an URL).
 
-[![source viewer screenshot](https://dl.dropboxusercontent.com/u/2268180/sourcecodeviewer.png)](http://sourceviewerdemo.herokuapp.com/show?url=http://github.com&user_agent=#line-146)
+[![source viewer screenshot](https://dl.dropboxusercontent.com/u/2268180/sourcecodeviewer.png)](http://sourceviewerdemo.herokuapp.com/show?url=http://github.com#line-146)
 
 ## Why?
 
