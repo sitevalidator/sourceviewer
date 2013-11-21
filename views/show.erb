@@ -32,6 +32,14 @@
     <script src="http://sitevalidator.com/cdn/highlightjs/7.3/highlight.min.js"></script>
     <script type="text/javascript">
       hljs.initHighlightingOnLoad();
+
+      $("li").click(function(){
+        var old_url = $(location).attr("href");
+        var new_url = old_url.replace(/(#.+|$)/, "#" + $(this).attr("id"));
+
+        $(location).attr("href", new_url);
+      });
+
     </script>
   </body>
 </html>
