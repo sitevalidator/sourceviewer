@@ -1,6 +1,6 @@
 # Source Viewer
 
-Source Viewer, _source code viewing as a service_, is a simple web service that allows you to see the source code of a web page (or any other file that can be accessed through an URL).
+Source Viewer is _source code viewing as a service_, a simple web service that allows you to see the source code of a web page (or any other file that can be accessed through an URL).
 
 [![source viewer screenshot](https://dl.dropboxusercontent.com/u/2268180/sourcecodeviewer.png)](http://sourceviewerdemo.herokuapp.com/show?url=http://github.com&user_agent=#line-146)
 
@@ -51,6 +51,8 @@ http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&user_agent=Gad
 We use the `rerun` gem so that it detects changes in the filesystem and reloads the app automatically.
 
     rerun 'ruby app.rb'
+
+The local server will be accessible at http://localhost:4567
 
 ## License
 
