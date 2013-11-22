@@ -46,7 +46,7 @@ You can use a different Highlight.js CSS theme using the `theme` param, like thi
 
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=arta
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=ascetic
-http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=brown\_paper
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=brown_paper
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=dark
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=default
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=docco
@@ -59,14 +59,14 @@ http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=ir_black
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=magula
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=mono-blue
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=monokai
-http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=monokai\_sublime
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=monokai_sublime
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=obsidian
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=pojoaque
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=railscasts
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=rainbow
-http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=school\_book
-http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=solarized\_dark
-http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=solarized\_light
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=school_book
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=solarized_dark
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=solarized_light
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=sunburst
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow-night-blue
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow-night-bright
