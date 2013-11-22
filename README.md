@@ -40,6 +40,43 @@ If you want to specify a custom User Agent to be used when fetching the page, yo
 
 http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&user_agent=Gadget
 
+## Choosing a theme
+
+You can use a different Highlight.js CSS theme using the `theme` param, like this:
+
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=arta
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=ascetic
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=brown\_paper
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=dark
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=default
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=docco
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=far
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=foundation
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=github
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=googlecode
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=idea
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=ir_black
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=magula
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=mono-blue
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=monokai
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=monokai\_sublime
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=obsidian
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=pojoaque
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=railscasts
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=rainbow
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=school\_book
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=solarized\_dark
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=solarized\_light
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=sunburst
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow-night-blue
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow-night-bright
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow-night-eighties
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow-night
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=tomorrow
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=vs
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=xcode
+http://sourceviewerdemo.herokuapp.com/show?url=https://github.com&theme=zenburn
+
 # Getting development env ready
 
 ## Install gems for development
