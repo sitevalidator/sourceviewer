@@ -13,11 +13,11 @@ li {
 pre { margin: 0px; padding: 0px; font-size: 1.3em; text-wrap:normal; overflow-wrap:break-word; }
 
 li:nth-child(odd) pre code {
-  background-image:url('/white.png');
+  background-image:url('/images/white.png');
 }
 
 li:nth-child(even) pre code {
-  background-image:url('/black.png');
+  background-image:url('/images/black.png');
 }
 
 li:hover pre code { font-weight: bolder; }
