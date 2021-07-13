@@ -12,6 +12,13 @@ get '/show' do
   erb :show
 end
 
+get '/read' do
+  @url    = params[:url]
+  @source = open(@url, allow_redirections: :all, "User-Agent" => user_agent).read
+
+  erb :read
+end
+
 get '/500' do
   return "SORRY! We could not process this page."
 end
